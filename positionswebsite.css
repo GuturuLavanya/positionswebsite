@@ -1,0 +1,183 @@
+*{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    background-color: whitesmoke;
+    width:100%;
+    position:sticky;
+    z-index: 3;
+    top:0;
+    padding:15px;
+    
+  
+}
+.br{
+    display: inline-block;
+    text-decoration: none;  
+
+}
+.b{
+    display: inline-block;
+    position: absolute;
+    right: 0; 
+    padding-right: 15px;
+    padding-bottom: 10px;
+    
+
+    
+
+}
+a{
+    text-decoration: none;
+    padding: 5px;
+    font-size: 20px;
+    color:black;
+   
+}
+a:hover{
+    background-color: gray;
+    color:black
+    
+}
+img{
+    width:100%;
+}
+.image1{
+    width:100%;
+}
+.par{
+    
+    position: absolute;
+    top: 70%;
+    left: 40%; 
+    font-weight: bold; 
+    color: white;
+    font-size: 30px;
+    
+
+}
+.par1{
+    background-color: black;
+    color: white;
+    padding: 10px 16px;
+    font-weight: bold;
+    font-size: 30px;
+    
+}
+input{
+    width:100%;
+    padding: 10px;
+    margin: 10px;
+    margin-left: 15px;
+  
+}
+.buton{
+    background-color: black;
+    color: white;
+    width: 200px;
+    margin-left: 25px;
+    margin: 10px;
+   
+}
+.contact{
+    /*margin-left: 50px;*/
+}
+.para{
+    /*margin-left: 50px;*/
+}
+
+h2{
+    margin-left: 20px;
+}
+.ipsum{
+    margin-left: 20px;
+}
+
+
+
+.container{
+    width:100%;
+    margin:10px auto;  
+    margin-right: 10px;
+    padding: 10px;
+}
+
+.image{
+    display:inline-block;
+    width: 280px;
+    position: relative;
+    margin: 15px; 
+    margin-right: 20px; 
+
+}
+.image img{
+    width:100%;
+    height:auto;    
+}
+.image p{
+    color:white;
+    background-color: black;
+    display:inline;
+    position:absolute;
+    left:0;
+    top: 0;
+    padding:10px 20px 10px 20px;
+    font-family: Verdana, sans-serif;
+}
+
+
+
+
+.container1{
+    
+    width:100%;
+    margin:auto;
+    margin-top: 5%;
+   
+    
+}
+.item{
+    
+    width:300px;
+    padding: 10px;
+    display:inline-block;
+
+}
+img{
+    width:100%;
+   
+}
+p{
+    padding:5px;
+}
+h3{
+    padding:5px;
+}button{
+    width: 100%;
+    border: 0px;
+    border-radius: 5px;
+    padding: 10px;
+    
+}
+button:hover{
+    background-color: gray;
+}
+.map{
+    width: 100%;
+    
+}
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    align-content: center;
+    padding: 30px;
+    width: 110%;
+}
+.w3{
+    color: white;
+}
